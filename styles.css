@@ -1,0 +1,33 @@
+body {
+    color: purple;
+    background: pink;
+    margin: 0px;
+    font-family: "Josefin Sans", system-ui;
+    }
+    
+    header {
+        border-bottom: solid 2px rgb(128 0 128);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(128 0 128);
+    }
+    
+    section {
+    background: rgb(255 145 164);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+    }
+    
+    .chamada-texto {
+        margin-right: 5%;
+    }
+    
+    h1 {
+        font-size: 40px;
+    }
+    
+    p {
+    font-size: 25px;
+    }
